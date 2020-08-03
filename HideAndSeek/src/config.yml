@@ -1,0 +1,30 @@
+#Timers (in seconds) make sure it's a multiple of 60!
+Grace_Period: 180
+Main_Period: 360
+
+#Messages at time intervals remaining during Main Period (Up to N minutes)
+Minute:
+  1: "&f<&c<player>&f> &aI can almost smell the victory! &c<time> minutes remaining.
+  2: "&f<&c<player>&f> &aIt's getting very close, I expect you to be close... &c<time> minutes remaining.
+  3: "&f<&c<player>&f> &aAt this rate i'll win in no time! &c<time> minutes remaining.
+  4: "&f<&c<player>&f> &aYou would not believe where I'm at right now... &c<time> minutes remaining.
+  5: "&f<&c<player>&f> &aTry and catch me! &c<time> minutes remaining.
+  6: 
+  7:
+  8:
+  9:
+  10:
+    
+#Special time messages
+Start_Message: "&eThe <graceTime> minute grace period has &aStarted&e! &cRUN!!!"
+End_GracePeriod: "&aGrace Period ends in:"
+Minute_Countdown_Format: "&c<time> minute(s) remaining!"
+Final_Countdown_Format: "&c<time> !"
+Final_Second: "&c The hider &f<&c<player>&f> &chas won ! ! !"
+Final_Graceperiod_Second: "&c<player> &ais the &eHider &a!"
+    
+   
+firstJoin_message: '&a<player> &7has joined the server for the first time!'
+join_message: '&e<player> &7has joined the server!'
+
+

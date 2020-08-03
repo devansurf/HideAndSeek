@@ -1,0 +1,9 @@
+name: HideAndSeek
+version: 1.0.0
+author: DevsDevelop
+main: me.devsdevelop.hide_and_seek.Hide_And_Seek
+description: Can you catch me before the time runs out?
+
+commands:
+  hide_n_seek:
+    description: Starts the gamemode hide and seek.
